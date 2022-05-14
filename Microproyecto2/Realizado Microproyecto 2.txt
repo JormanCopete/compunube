@@ -1,0 +1,12 @@
+Realizado Microproyecto 2
+
+
+1. Imagen en hub.docker.com
+https://hub.docker.com/repository/docker/jormancopete/kubermatic-dl
+docker push jormancopete/kubermatic-dl:tagname
+
+2. Aplicacion de mi interes en Azure
+https://docs.microsoft.com/es-es/azure-stack/aks-hci/deploy-windows-application
+
+3. Archviso en GitHub
+https://github.com/JormanCopete/compunube.git
